@@ -1,0 +1,10 @@
+
+    .navbar-inverse .navbar-nav>li>a  {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .navbar-inverse {
+        background-color: transparent;
+        border-color: transparent;
+    }
